@@ -1,0 +1,24 @@
+Testing DbInsertRecord
+
+Creating the DB
+
+Attempting to insert: QF409|SYD|MEL|Monday 0705|90
+Insertion succeeded
+Attempting to insert: QF409|SYD|MEL|Monday 0705|90
+Insertion failed
+Attempting to insert: QF409|SYD|MEL|Monday 0705|91
+Insertion failed
+Attempting to insert: QF409|SYD|MEL|Monday 0706|90
+Insertion succeeded
+Attempting to insert: QF401|SYD|MEL|Monday 0705|90
+Insertion succeeded
+Attempting to insert: VA323|MEL|BNE|Sunday 1100|110
+Insertion succeeded
+Attempting to insert: zzzzzzzz|MEL|BNE|Sunday 2359|110
+Insertion succeeded
+Attempting to insert: 0|MEL|BNE|Monday 0000|110
+Insertion succeeded
+Attempting to insert: 0|ADL|SYD|Monday 0000|4
+Insertion failed
+
+Discarding the DB
